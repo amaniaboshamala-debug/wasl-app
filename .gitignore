@@ -1,0 +1,14 @@
+# مفاتيح Supabase – لا ترفعيها على GitHub
+env.json
+
+.dart_tool/
+.packages
+build/
+.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# نسخ احتياطية محلية
+_backup_*/
+errors.txt
